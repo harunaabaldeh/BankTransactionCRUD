@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d2fc9d8-9b48-4554-bf03-6d1d8a018abd": {
+      "ProjectGuid": "9d2fc9d8-9b48-4554-bf03-6d1d8a018abd",
+      "DisplayName": "BankTransactions",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
